@@ -1,0 +1,13 @@
+node_modules/
+dist/
+build/
+*.log
+.DS_Store
+.env
+
+# Ignorar arquivos temporários de build do Android Studio
+android/.gradle/
+android/app/build/
+android/local.properties
+android/.idea/
+android/**/*.iml

@@ -1,0 +1,10 @@
+{
+  "appId": "com.sharkord.app",
+  "appName": "Sharkord",
+  "webDir": "www",
+  "server": {
+    "allowNavigation": [
+      "*"
+    ]
+  }
+}
